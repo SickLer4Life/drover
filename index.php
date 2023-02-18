@@ -18,6 +18,7 @@
         </ul>
     </div>
     <div class="head">
+       <img src="/images/logo.png" width="35%" height="35%" style="float: left;"></img>
        <h1>Electronic Wine Aerator</h1>
        <h1 style="color: #2FA2B7;">Simple. <span style="color: #A679E3;">Cheap. </span><span style="color: #F34E7F;">Efficient.</span></h1>
        <span>From A$90</span>
