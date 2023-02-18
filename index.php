@@ -11,7 +11,7 @@
 <body>
     <div class="nav">
         <ul>
-            <img src="/images/logo.png" width="10%" height="10%" style="float: left; position: relative; bottom: 15px"></img>
+            <img src="/images/logo.png" width="10%" height="10%" style="float: left; position: relative; bottom: 30px"></img>
             <li><a id="nav-link" href="#"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
             <li><a id="nav-link" href="./public/products.php">Products</a></li>
             <li><a id="nav-link" href="./public/about.php">About</a></li>
