@@ -12,8 +12,8 @@
     <div class="nav">
         <ul>
             <li><a id="nav-link" href="#"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
-            <li><a id="nav-link" href="./public/products.html">Products</a></li>
-            <li><a id="nav-link" href="./public/about.html">About</a></li>
+            <li><a id="nav-link" href="./public/products.php">Products</a></li>
+            <li><a id="nav-link" href="./public/about.php">About</a></li>
         </ul>
     </div>
     <div class="head">
