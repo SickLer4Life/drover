@@ -12,9 +12,9 @@
 <body>
     <div class="nav">
         <ul>
-            <li><a id="nav-link" href="../index.html"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
+            <li><a id="nav-link" href="../index.php"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
             <li><a id="nav-link" href="#">Products</a></li>
-            <li><a id="nav-link" href="./about.html">About</a></li>
+            <li><a id="nav-link" href="./about.php">About</a></li>
         </ul>
     </div>
     <div class="off">
