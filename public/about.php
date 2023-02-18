@@ -12,8 +12,8 @@
 <body>
     <div class="nav">
         <ul>
-            <li><a id="nav-link" href="../index.html"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
-            <li><a id="nav-link" href="./products.html">Products</a></li>
+            <li><a id="nav-link" href="../index.php"><span class="material-symbols-outlined" style="position: relative; bottom: 3px;">home</span></a></li>
+            <li><a id="nav-link" href="./products.php">Products</a></li>
             <li><a id="nav-link" href="#">About</a></li>
         </ul>
     </div><br><br><br><br><br>
