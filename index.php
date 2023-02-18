@@ -18,7 +18,7 @@
         </ul>
     </div>
     <div class="head">
-       <h1>Electronic Aerator</h1>
+       <h1>Electronic Wine Aerator</h1>
        <h1 style="color: #2FA2B7;">Simple. <span style="color: #A679E3;">Cheap. </span><span style="color: #F34E7F;">Efficient.</span></h1>
        <span>From A$90</span>
        <button id="buy1" onclick="window.open('./public/products.html')">Shop</button><button id="buy2" onclick="window.open('./public/about.html')">Learn More</button><br><br><br>
